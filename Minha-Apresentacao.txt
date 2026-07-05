@@ -1,0 +1,3 @@
+ola! meu nome rubens to aprendendo usar github.
+fazendo commit.
+entendendo git.
